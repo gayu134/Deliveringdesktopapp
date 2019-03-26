@@ -26,9 +26,10 @@ The shared applications,datas can be secured in VPC services and will be availab
 
 1)Building a desktop application-Gayethiri.R.S
    
-   created a desktop application called college management in visual basic.It contains all the student and the faculty details of college management.created a database in ms access.
+created a desktop application called college management in visual basic.It contains all the student and the faculty details of college management.created a database in ms access.
 
 2)creating an appstream image-Marry mettilda.S
+
 creating Amazon virtual private cloud (VPC) and other network resources required for AppStream 2.0 environment.
 Template in AWS CloudFormation to automatically create and configure the necessary network resources. 
 creating stacks,vpc,subnets
